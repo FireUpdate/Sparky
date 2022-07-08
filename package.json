@@ -17,7 +17,7 @@
     "discord.js-musicbot-addon": "^13.3.0",
     "inquirer": "^6.2.0",
     "mal-scraper": "^2.4.5",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.2.2",
     "ms": "^2.1.1",
     "os": "^0.1.1",
